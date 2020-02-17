@@ -3,7 +3,9 @@ Implementation of the Fourier decomposition algorithm, decomposing a musical com
 
 
 
-## How to run the program?
+# How to run the program?
+
+## Instruction
 
 1. The music file required for conversion must be in the same directory as the program.
 2. Open the settings.conf file in any text editor and specify the name of the audio track in the "nameTrack" field (for example: nameTrack = example.wav).
@@ -14,3 +16,8 @@ Implementation of the Fourier decomposition algorithm, decomposing a musical com
 4. In the course of processing the sound file, the status of the program execution will be displayed in the console.
 5. After successful completion of the program in the current directory, a file with the name "partitura.txt" will appear.
 6. The score for the fountain is ready!
+
+
+## macOS Emulator
+
+In the macOS Emulator folder there is a fountain emulator with a music file and a pre-prepared score for quickly checking the result of decomposition of a music file using the Fourier algorithm.
