@@ -21,3 +21,10 @@ Implementation of the Fourier decomposition algorithm, decomposing a musical com
 ## macOS Emulator
 
 In the macOS Emulator folder there is a fountain emulator with a music file and a pre-prepared score for quickly checking the result of decomposition of a music file using the Fourier algorithm.
+
+```bash
+On macOS version 10.13 or above - to run the emulator, you need to do the following steps:
+    - Right click on the emulator and select "Show Package Contents"
+    - Then follow the path: Contents -> MacOS
+    - Launch a terminal application by holding down the Control key and selecting the open menu item and confirm the opening
+```
