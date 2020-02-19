@@ -32,3 +32,13 @@ On macOS version 10.13 or above - to run the emulator, you need to do the follow
 ## Windows Emulator
 
 In the Windows Emulator folder there is a fountain emulator with a music file and a pre-prepared score for quickly checking the result of decomposition of a music file using the Fourier algorithm.
+
+## Xcode Project
+
+```bash
+To start an Xcode project, you must specify the path to the project in the Edit Scheme menu; to do this, follow these steps:
+    - In the Xcode project menu bar, select Product -> Scheme -> Edit Scheme
+    - Check the Working Directory checkbox and specify the path to the folder with the Vizualization DTFT.xcodeproj file
+    - Save the changes and run the project
+```
+
