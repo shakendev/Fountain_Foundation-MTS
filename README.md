@@ -28,3 +28,7 @@ On macOS version 10.13 or above - to run the emulator, you need to do the follow
     - Then follow the path: Contents -> MacOS
     - Launch a terminal application by holding down the Control key and selecting the open menu item and confirm the opening
 ```
+
+## Windows Emulator
+
+In the Windows Emulator folder there is a fountain emulator with a music file and a pre-prepared score for quickly checking the result of decomposition of a music file using the Fourier algorithm.
