@@ -26,7 +26,9 @@ In the macOS Emulator folder there is a fountain emulator with a music file and 
 On macOS version 10.13 or above - to run the emulator, you need to do the following steps:
     - Right click on the emulator and select "Show Package Contents"
     - Then follow the path: Contents -> MacOS
-    - Launch a terminal application by holding down the Control key and selecting the open menu item and confirm the opening
+    - Launch a terminal application
+    - Enter the following line into the terminal console: chmod +x pathToFile, where pathToFile is file in Contents -> MacOS folder
+    - And now back to the folder MacOS, holding down the Control key and selecting the open menu item and confirm the opening
 ```
 
 ## Windows Emulator
