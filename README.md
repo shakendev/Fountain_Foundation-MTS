@@ -31,7 +31,7 @@ On macOS version 10.13 or above - to run the emulator, you need to do the follow
     - And now back to the folder MacOS, holding down the Control key and selecting the open menu item and confirm the opening
 ```
 
-If you are using macOS Catalina (ver. 10.15), then you need to allow the opening of the fountain emulator in the "Privacy" section of the system settings.
+If you are using macOS Catalina (ver. 10.15), then you need to allow the opening of the fountain emulator in the "Privacy" section of the system preferences.
 
 ## Windows Emulator
 
