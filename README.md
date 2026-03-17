@@ -1,7 +1,9 @@
 # Fountain_Foundation-MTS (Fall of 2K!8)
 Implementation of the Fourier decomposition algorithm, decomposing a musical composition (with a sampling frequency of 44,1 kHz) into .wav components into a score for further use in animation of the lighting part and control of the nozzles of the Aurora fountain.
 
+<video src="Assets/aurora-fountain-foundation.mp4" muted autoplay loop playsinline controls style="max-width: 100%;"></video>
 
+[Video Example]((Assets/aurora-fountain-foundation.mp4))
 
 # How to run the program?
 
