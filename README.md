@@ -3,7 +3,7 @@ Implementation of the Fourier decomposition algorithm, decomposing a musical com
 
 <video src="Assets/aurora-fountain-foundation.mp4" muted autoplay loop playsinline controls style="max-width: 100%;"></video>
 
-[Video Example]((Assets/aurora-fountain-foundation.mp4))
+[Video Example](Assets/aurora-fountain-foundation.mp4)
 
 # How to run the program?
 
